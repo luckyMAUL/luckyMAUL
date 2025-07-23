@@ -44,7 +44,6 @@
 ---
 <img src="https://raw.githubusercontent.com/luckyMAUL/luckyMAUL/output/snake.svg" alt="Snake animation" />
 
-###
 ---
 
 ## 📈 **GitHub Stats**  
