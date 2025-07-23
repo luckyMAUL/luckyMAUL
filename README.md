@@ -44,7 +44,7 @@
 
 ---
 ## 📫 **Let's Connect!**  
-- 💼 [LinkedIn](https://www.linkedin.com/in/lucky-maulana-229150359/?trk=opento_sprofile_topcard)  
+- 💼 Linkedin: [LinkedIn](https://www.linkedin.com/in/lucky-maulana-229150359/?trk=opento_sprofile_topcard)  
 <!-- - 🐦 [Twitter/X](https://twitter.com/yourhandle)   -->
 - 📧 Email: luckyggws@gmail.com
 
