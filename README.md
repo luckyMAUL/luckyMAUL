@@ -3,7 +3,6 @@
 # 👋 Hello, I'm Lucky Maulana Abduh  
 **Mobile Developer | Kotlin & Jetpack Compose Enthusiast** 
 
----
 
 ### ⚙️ Tech Stack
 
@@ -15,7 +14,6 @@
 <img src="https://img.shields.io/badge/MVVM-FF6D00?style=for-the-badge&logo=kotlin&logoColor=white" />
 <img src="https://img.shields.io/badge/Coroutines-0091EA?style=for-the-badge&logo=kotlin&logoColor=white" />
 
----
 
 🚀 Building sleek Android apps with modern tech.  
 📱 Passionate about clean UI, smooth UX, and scalable architecture.
