@@ -42,6 +42,10 @@
 ✨ **Tech Stack**: MVVM, Firebase, Material 3   -->  
 
 ---
+<img src="https://raw.githubusercontent.com/luckyMAUL/luckyMAUL/output/snake.svg" alt="Snake animation" />
+
+###
+---
 
 ## 📈 **GitHub Stats**  
 [![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=luckyMAUL&show_icons=true&theme=radical)](https://github.com/luckyMAUL)  
