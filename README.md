@@ -43,13 +43,6 @@
 ✨ **Tech Stack**: MVVM, Firebase, Material 3   -->  
 
 ---
-
-## 📈 **GitHub Stats**  
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=luckyMAUL&show_icons=true&theme=radical)](https://github.com/luckyMAUL)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luckyMAUL&layout=compact&theme=radical)](https://github.com/luckyMAUL)  
-
----
-
 ## 📫 **Let's Connect!**  
 - 💼 [LinkedIn](https://www.linkedin.com/in/lucky-maulana-229150359/?trk=opento_sprofile_topcard)  
 <!-- - 🐦 [Twitter/X](https://twitter.com/yourhandle)   -->
