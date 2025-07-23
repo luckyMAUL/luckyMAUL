@@ -1,16 +1,61 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**luckyMAUL/luckyMAUL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hello, I'm Lucky Maulana Abduh  
+**Mobile Developer | Kotlin & Jetpack Compose Enthusiast** 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚙️ Tech Stack
+
+<img src="https://skillicons.dev/icons?i=kotlin,androidstudio,gradle,firebase,git" height="40" />
+
+<br>
+
+<img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpack-compose&logoColor=white" />
+<img src="https://img.shields.io/badge/MVVM-FF6D00?style=for-the-badge&logo=kotlin&logoColor=white" />
+<img src="https://img.shields.io/badge/Coroutines-0091EA?style=for-the-badge&logo=kotlin&logoColor=white" />
+
+---
+
+🚀 Building sleek Android apps with modern tech.  
+📱 Passionate about clean UI, smooth UX, and scalable architecture.
+
+</div>
+
+
+---
+
+## 🛠️ **Skills & Tools**  
+- **Languages**: Kotlin, Java  
+- **Android**: Jetpack Compose, Android SDK, Coroutines, Flow, ViewModel  
+- **Architecture**: MVVM, Clean Architecture, Repository Pattern  
+- **Tools**: Android Studio, Firebase, Git,
+- **Learning**: KMP (Kotlin Multiplatform), Ktor  
+
+---
+
+## 🔥 **Featured Projects**  
+### 1. [Project Name](https://github.com/your/repo)  
+📌 *A brief description (e.g., "A Jetpack Compose app for XYZ with Room & Retrofit")*  
+✨ **Tech Stack**: Jetpack Compose, Coroutines, Dagger Hilt  
+
+### 2. [Project Name](https://github.com/your/repo)  
+📌 *Another cool project highlight*  
+✨ **Tech Stack**: MVVM, Firebase, Material 3  
+
+---
+
+## 📈 **GitHub Stats**  
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=luckyMAUL&show_icons=true&theme=radical)](https://github.com/luckyMAUL)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luckyMAUL&layout=compact&theme=radical)](https://github.com/luckyMAUL)  
+
+---
+
+## 📫 **Let's Connect!**  
+- 💼 [LinkedIn](https://www.linkedin.com/in/lucky-maulana-229150359/?trk=opento_sprofile_topcard)  
+<!-- - 🐦 [Twitter/X](https://twitter.com/yourhandle)   -->
+- 📧 Email: luckyggws@gmail.com
+
+---
+
+⭐ **Fun Fact**: I [write tech blogs/contribute to OSS/love coffee/etc.]!  
