@@ -33,13 +33,13 @@
 ---
 
 ## 🔥 **Featured Projects**  
-### 1. [Project Name](https://github.com/your/repo)  
+<!-- ### 1. [Project Name](https://github.com/your/repo)  
 📌 *A brief description (e.g., "A Jetpack Compose app for XYZ with Room & Retrofit")*  
 ✨ **Tech Stack**: Jetpack Compose, Coroutines, Dagger Hilt  
 
 ### 2. [Project Name](https://github.com/your/repo)  
 📌 *Another cool project highlight*  
-✨ **Tech Stack**: MVVM, Firebase, Material 3  
+✨ **Tech Stack**: MVVM, Firebase, Material 3   -->  
 
 ---
 
