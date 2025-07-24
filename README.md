@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hello, I'm Lucky Maulana Abduh  
+# 👋 Hello, I'm Lucky M.A
 
 **Mobile Developer | Kotlin & Jetpack Compose Enthusiast** 
 
